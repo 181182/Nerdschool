@@ -1,0 +1,22 @@
+{
+  "name": "nerdschool",
+  "version": "1.0.0",
+  "description": "Nerdschool package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h181182/Nerdschool.git"
+  },
+  "keywords": [
+    "party"
+  ],
+  "author": "Magnus Bergersen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/h181182/Nerdschool/issues"
+  },
+  "homepage": "https://github.com/h181182/Nerdschool#readme"
+}
